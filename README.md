@@ -1,2 +1,2 @@
 # FernsCMS
-##x architecture
+## architecture
